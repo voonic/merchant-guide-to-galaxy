@@ -1,0 +1,13 @@
+Assumptions made : 
+
+- Its assumed that each line is terminated by newline. Ex: Testcase given in question
+- Questions are assumed to be end with '?' (without quotes). Ex: how much is glob pish ? 
+- Inputs are assumed to be case sensitive. Ex: glob is not GLOB.
+- keyword 'is' is assumed as a separator for identifiers and their values in Assignment statement. Ex: glob is I
+- Whenever you provide empty line the input process will be terminated and the application will show output.
+- Its assumed that the identifier closest to keyword 'is' in CREDITS info line is to be computed.
+- Roman numbers must be specified in capitals.
+
+For more information kindly see package-info.java
+
+Test results based on various inputs are inside testresults.txt
